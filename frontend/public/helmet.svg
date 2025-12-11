@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="helmetGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#22c55e"/>
+      <stop offset="100%" style="stop-color:#16a34a"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="50" cy="55" rx="35" ry="25" fill="url(#helmetGrad)"/>
+  <path d="M15 55 Q15 30 50 25 Q85 30 85 55" fill="url(#helmetGrad)" stroke="#14532d" stroke-width="2"/>
+  <rect x="20" y="52" width="60" height="8" rx="2" fill="#14532d"/>
+  <circle cx="50" cy="40" r="8" fill="#dcfce7" opacity="0.6"/>
+</svg>

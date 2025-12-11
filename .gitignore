@@ -1,0 +1,41 @@
+# Backend Environment
+backend/venv/
+backend/__pycache__/
+backend/app/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.Python
+*.so
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+.pm2/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build artifacts
+*.egg-info/
+build/
+dist/
